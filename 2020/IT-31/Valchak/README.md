@@ -4,3 +4,4 @@
  ## Lab_2:https://github.com/olyalya812/devops_course/tree/main/Lab%202
  ## Lab_3:https://github.com/olyalya812/devops_course/tree/main/Lab_3
  ## Lab_4:https://github.com/olyalya812/devops_course/tree/main/Lab_4
+ ## Lab_5:https://github.com/olyalya812/devops_course/tree/main/Lab_5
